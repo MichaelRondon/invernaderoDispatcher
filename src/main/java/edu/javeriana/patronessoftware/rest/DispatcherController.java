@@ -42,7 +42,7 @@ public class DispatcherController {
     }
 
     @RequestMapping(value = "/listarNodos", method = RequestMethod.POST)
-    public ResponseEntity<List<Invernadero>> actualizaFrecuencia() {
+    public ResponseEntity<List<Invernadero>> listarNodos() {
         List<Invernadero> invernaderos = new LinkedList<>();
         Invernadero invernadero = new Invernadero();
         invernadero.setHost("localhost");
