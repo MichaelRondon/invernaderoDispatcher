@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package edu.javeriana.procesossoftware.rest;
+package edu.javeriana.patronessoftware.rest;
 
 import edu.javeriana.patronessoftware.model.Frecuencia;
 import edu.javeriana.patronessoftware.model.Invernadero;
